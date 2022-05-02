@@ -1,1 +1,0 @@
-const myFiles = +prompt('How do you do?' '');
